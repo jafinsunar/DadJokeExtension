@@ -4,13 +4,14 @@ body {
     background-color: aliceblue;
     display: flex;
     justify-content: center;
+    
 }
 
 p {
     display: inner-flex;
     text-align: center;
     margin : auto 10px;
-    font-size : 22px;
+    font-size : 25px;
     color : blue;
     border-radius : 6px;
     border : 2px solid lightblue;
